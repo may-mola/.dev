@@ -1,24 +1,14 @@
 export const home = {
   intro: {
-    header: "Hello, I'm Howz Nguyen",
+    header: "Xin chào, mình là May",
     description:
-      "I'm currently a Fullstack Developer. This is a website I created with the desire to share my knowledge with everyone. Thank you for visiting. ❤️",
+      "Đây là góc nhỏ của mình. Cảm ơn các bạn đã ghé thăm và mong các bạn tìm thấy niềm vui ở đây. ❤️",
     image: "https://github.com/howznguyen.png?size=512",
     links: [
       {
-        icon: "HiOutlineNewspaper",
-        title: "Resume",
-        link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-      },
-      {
         icon: "FaFacebook",
-        title: "howznguyen",
-        link: "https://facebook.com/howznguyen/",
-      },
-      {
-        icon: "FaGithub",
-        title: "howznguyen",
-        link: "https://github.com/howznguyen",
+        title: "le coup de foudre",
+        link: "https://www.facebook.com/share/17NtVSDy3G/?mibextid=qi2Omg",
       },
     ],
   },
